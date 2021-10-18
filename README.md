@@ -16,3 +16,4 @@ Contents of exercises and projects of Selected Topics in Image Processing and Ap
 
 ### [Xử lý ảnh nhị phân (Binary Image Processing)](https://github.com/ndtuan10/Image-Processing-And-Applications_CS406.M11.KHCL/tree/main/BaiTap/Binary_Image_Processing)
   - [Bài 4: Eorsion (Phéo co), Dilation (Phép giãn), Opening (Phép mở), Closing (Phép đóng)](https://github.com/ndtuan10/Image-Processing-And-Applications_CS406.M11.KHCL/blob/main/BaiTap/Binary_Image_Processing/BaiTap4:%20Binary%20Image%20Processing%20(Erosion%2C%20Dilation%2C%20Opening%2C%20Closing).ipynb)
+  - [Bài 5: Connected Components Labeling (Gán nhãn các thành phần liên thông), Automatic number-plate recognition (Nhận diện bảng số xe)](https://github.com/ndtuan10/Image-Processing-And-Applications_CS406.M11.KHCL/blob/main/BaiTap/Binary_Image_Processing/BaiTap5:%20Binary%20Image%20Processing%20(Connected%20Component%20Labeling%2C%20Automatic%20number-plate%20recognition).ipynb)
