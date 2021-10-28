@@ -20,3 +20,7 @@ Contents of exercises and projects of Selected Topics in Image Processing and Ap
 
 ### [Truy xuất ảnh (Image Retrieval)](https://github.com/ndtuan10/MachineLearning-and-ComputerVision/tree/main/CV/BaiTap)
   - [Bài 6: Process of content based image retrieval (CBIR) - Quy trình truy xuất hình ảnh dựa trên nội dung](https://github.com/ndtuan10/MachineLearning-and-ComputerVision/blob/main/CV/BaiTap/Process%20of%20content%20based%20image%20retrieval.ipynb)
+
+
+### [Phân lớp ảnh (Image Classification)](https://github.com/ndtuan10/Image-Processing-And-Applications_CS406.M11.KHCL/tree/main/BaiTap/Image_Classification)
+  - [Bài 7: Image Classification using MobileNetV2 (Phân lớp ảnh sử dụng mạng MobileNetV2)](https://github.com/ndtuan10/Image-Processing-And-Applications_CS406.M11.KHCL/blob/main/BaiTap/Image_Classification/BaiTap7:%20Image%20Classification%20using%20MobileNetV2.ipynb)
